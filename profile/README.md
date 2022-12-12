@@ -1,1 +1,1 @@
-<img src="images/cover.png" width="10000"/>
+<img src="https://raw.githubusercontent.com/Dart-is-Art/.github/main/profile/images/cover.png" width="10000"/>
